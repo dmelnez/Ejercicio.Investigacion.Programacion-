@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio.Ficheros.Programacion.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio.Ficheros.Programacion.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio.Ficheros.Programacion.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\bin\Debug\net6.0\Ejercicio.Ficheros.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\refint\Ejercicio.Ficheros.Programacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\Ejercicio.Ficheros.Programacion.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio.Ficheros.Programacion\Ejercicio.Ficheros.Programacion\obj\Debug\net6.0\ref\Ejercicio.Ficheros.Programacion.dll
